@@ -1,3 +1,3 @@
-# Chess
+# Chess_Game
 
 Chess Player
