@@ -1,3 +1,1 @@
 # Chess
-
-#Play Chess
